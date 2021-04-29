@@ -1,0 +1,11 @@
+
+
+
+1.Download the folder in the link.
+
+2.paste the images to be predicted under test folder
+
+3. run the python comand in comand prompt by    py gender.py --image 'test\imagename.jpg'
+
+4.check the predictions folder for results.
+
